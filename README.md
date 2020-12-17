@@ -1,2 +1,2 @@
-# EV-2020
-EV Stock Price, Percent Change and Volume Viz 2020
+# EV-2020-BubbleChart-Viz
+Electric Vehicle Stock Price, Percent Change and Volume Visualization 2020
